@@ -44,3 +44,25 @@ header h2 {
     font-size: 72px;
     font-weight: 700;
 }
+
+/*seccion de descripcion*/
+
+#descripcion hr {
+    width: 100px;
+    height: 1px;
+}
+
+#descripcion .descripcion {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #373A3C;
+}
+
+#descripcion .parrafos {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #373A3C;
+}
