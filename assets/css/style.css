@@ -123,3 +123,16 @@ header h2 {
     font-size: 16px;
     color: #373A3C;
 }
+
+/* seccion de contacto */
+#contacto hr {
+    width: 150px;
+    height: 1px;
+}
+
+#contacto h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    color: #373A3C;
+}
