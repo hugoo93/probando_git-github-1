@@ -1,3 +1,15 @@
 body {
     margin: 0;
 }
+
+/*Navegador*/
+
+nav.bg-morado {
+    background-color: #660066;
+}
+
+a.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
