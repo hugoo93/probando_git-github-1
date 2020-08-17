@@ -99,3 +99,27 @@ header h2 {
     font-weight: 200;
     color: #373A3C;
 }
+
+/* mis trabajos */
+#trabajos {
+    background-color: #660066;
+}
+
+#trabajos img {
+    width: 316px;
+    height: 180px;
+}
+
+#trabajos h5 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    color: #373A3C;
+}
+
+#trabajos p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300px;
+    font-size: 16px;
+    color: #373A3C;
+}
